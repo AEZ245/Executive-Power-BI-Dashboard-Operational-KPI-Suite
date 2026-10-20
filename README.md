@@ -42,4 +42,8 @@ An interactive, multi-page executive dashboard built using Power BI and connecte
 * **Visual Documentation**: Full-resolution screenshots embedded below.
 
 ### Visual Preview
+**Executive Overview Page:**
+![Executive Overview Page](assets/executive-overview.png)
 
+**Product & Customer Deep-Dive Page:**
+![Product & Customer Deep-Dive Page](assets/product-deep-dive.png)
