@@ -1,4 +1,4 @@
-# Portfolio Project 3: Executive Power BI Dashboard & Operational KPI Suite
+# Executive Power BI Dashboard & Operational KPI Suite
 
 ## 🎯 Executive Summary
 An interactive, multi-page executive dashboard built using Power BI and connected to a cleaned relational SQL star-schema (`superstore`). Designed to provide stakeholders with instant macro-level visibility into revenue trends, product performance, and discount efficiency. 
